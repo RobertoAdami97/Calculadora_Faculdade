@@ -1,0 +1,17 @@
+div {
+    display: block;
+    text-align: center;
+    padding:5px ;
+    font-size: 20px;
+  }
+  h1 {
+      text-align: center;
+  }
+  body {
+      background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));
+  }
+
+  .container {
+      margin:0 30% ;
+      border: solid 2px #000;
+  }
